@@ -30,7 +30,7 @@ const Camp = () => {
           </h2>
           <p className='regular-18 md:regular-20 text-white mt-5'>
             Starting from the anxiety of the climbers when visiting a new climbing location,
-            the possibility of getting lost is very large. That's why we are here for those
+            the possibility of getting lost is very large. That&apos;s why we are here for those
             of you who want to start an adventure
           </p>
           <Image
